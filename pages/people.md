@@ -53,9 +53,9 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 		szhao2 [at] albany.edu
 	</td>
 	<td>
-		<img src="../images/team/oldmiley.jpg" alt="Miley Yao" />
+		<img src="../images/team/oldmiley.jpg" alt="Mengfan (Miley) Yao" />
 		<br>
-		<a href="https://scholar.google.com/citations?hl=en&user=N7J1BHAAAAAJ">Miley Yao</a>	
+		<a href="https://www.albany.edu/~MY441828/">Mengfan (Miley) Yao</a>	
 		<br>
 		myao [at] albany.edu
 	</td>
