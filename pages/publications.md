@@ -21,7 +21,7 @@ M. Mirzaei,S. Sahebi, and P. Brusilovsky, “Sb-dnmf: A structure based discrimi
 
 T.N. Doan, and S. Sahebi, "Transcrosscf: Transition-based cross-domain collaborative filtering", 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020.
 
-S. Zhao, C. Wang, and S. Sahebi, "Modeling Knowledge Acquisition from Multiple LearningResource Types", 13th International Conference on Educational Data Mining (EDM), 2020.   
+S. Zhao, C. Wang, and S. Sahebi, "Modeling Knowledge Acquisition from Multiple LearningResource Types", 13th International Conference on Educational Data Mining (EDM), 2020. <a href="https://educationaldatamining.org/files/conferences/EDM2020/papers/paper_142.pdf">[paper]</a>, <a href="https://github.com/persai-lab/EDM2020-MVKM-Multiview-Tensor">[code]</a>, [slides], <a href ="https://www.youtube.com/watch?v=2p3QRavSINE&list=PLzBEJxyd0uuNlSGX4fX9Ijmd5dZo6mrqe">[video]</a> 
 
 M. Yao, S. Sahebi, and R. Feyzi Behnagh "Analyzing Student Procrastination in MOOCs: A Multivariate Hawkes Approach", 13th International Conference on Educational Data Mining (EDM), 2020.   
 
