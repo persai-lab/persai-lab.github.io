@@ -7,23 +7,50 @@ order: 2
 
 # Publications
 
-C. Wang, S. Zhao, and S. Sahebi, “Learning from Non-assessed Resources: Deep Multi-type Knowledge Tracing,” in The 14th International Conference on Educational Data Mining (EDM-21), 2021.
+- S. Hashemifar and **S. Sahebi**, “Personalized student knowledge modeling for future learning resource prediction,” in The 26th International Conference on Artificial Intelligence in Education (AIED), 2025.
 
-C. Wang, S. Sahebi, S. Zhao, P. Brusilovsky, and L. Moraes, “Knowledge Tracing for Complex Problem Solving: Granular Rank-based Tensor Factorization,” in The 29th Conference on User Modeling, Adaptation and Personalization (UMAP-21), 2021.
+- S. Zhao and **S. Sahebi**, “Neighborhood-Aware Negative Sampling for Student Knowledge and Behavior Modeling,” in The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025, pp. 13374–13382. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/33460/35615) [code](https://github.com/persai-lab/2025-NANSKoBeM) [slides](../slides/2025-AAAI-NANSKoBeM.pdf) 
 
-M. Yao, S. Sahebi, R. Feyzi Behnagh, S. Bursali, and S. Zhao, "Temporal Processes Associating withProcrastination Dynamics," in the Twenty Second International Conference on Artificial Intelligence in Education (AIED-21), 2021. <a href = "">[paper]</a> <a href = "">[slides]</a> <a href = "">[code]</a> 
+- **S. Sahebi**, M. Yao, S. Zhao, and R. Feyzi Behnagh "MoMENt: Marked Point Processes with Memory-Enhanced Neural Networks for User Activity Modeling", ACM Transactions on Knowledge Discovery from Data (TKDD), 2024. [paper](https://par.nsf.gov/biblio/10526248) [code](https://github.com/persai-lab/2024-TKDD-Moment) 
+ 
+- S. Zhao and **S. Sahebi**, “Multi-Task Modeling of Student Knowledge and Behavior,” in the 33rd ACM International Conference on Information and Knowledge (CIKM), 2024, pp.3363-3373. [paper](https://dl.acm.org/doi/pdf/10.1145/3627673.3679823) [code](https://github.com/persai-lab/2024-CIKM-KTBM) [slides](../slides/2024-CIKM-KTBM.pdf) 
 
-M. Yao, S. Zhao, S. Sahebi, and R. Feyzi Behnagh, “Stimuli-Sensitive Hawkes Processes for Personalized Student Procrastination Modeling,” in The Thirtieth Web Conference (The Web-21), 2021. <a href = "https://dl.acm.org/doi/pdf/10.1145/3442381.3450104">[paper]</a> <a href = "">[slides]</a> <a href = "https://github.com/persai-lab/WWW2021-SSHP">[code]</a> 
+- S. Zhao and **S. Sahebi**, “Discerning Canonical User Representation for Cross-Domain Recommendation,” in the 18th ACM Conference on Recommender Systems (RecSys), 2024, pp.318-328. [paper](https://dl.acm.org/doi/pdf/10.1145/3640457.3688114) [code](https://github.com/persai-lab/2024-RecSys-DiCUR-CDR) [slides](../slides/2024-RecSys-DiCUR-CDR.pdf) 
 
-M. Yao, S. Zhao,S. Sahebi, and R. Feyzi Behnagh, “Relaxed clustered hawkes process for procras-tination modeling in moocs,” inThe Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021.<a href = "https://www.aaai.org/AAAI21Papers/AAAI-7052.YaoM.pdf">[paper]</a> <a href = "">[slides]</a> <a href = "https://github.com/persai-lab/AAAI2021-RCHawkes-Gamma">[code]</a> <a href = "https://youtu.be/5-VqcXta4OQ">[video]</a> 
+- S. Zhao and **S. Sahebi**, “Exploring Simultaneous Knowledge and Behavior Tracing,” in the 17th International Conference on Educational Data Mining (EDM), 2024, pp. 927-932. [paper](https://par.nsf.gov/biblio/10526253) [code](https://github.com/persai-lab/2024-EDM-Pareto-TAMKOT) 
 
-M. Mirzaei,S. Sahebi, and P. Brusilovsky, “Sb-dnmf: A structure based discriminative non-negativematrix factorization model for detecting inefficient learning behaviors",” inThe2020IEEE/WIC/ACMInternational Joint Conference On Web Intelligence And Intelligent Agent Technology. WI-IAT,2020.
+- C. Wang, **S. Sahebi**, “Continuous personalized knowledge tracing: Modeling long-term learning in online environments,” 2023, pp. 2616-2625. [paper](https://par.nsf.gov/servlets/purl/10526255) [code](https://github.com/persai-lab/CIKM2023-CPKT) [slides](../slides/2023-CIKM-CPKT.pdf) 
 
-T.N. Doan, and S. Sahebi, "Transcrosscf: Transition-based cross-domain collaborative filtering", 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020.
+- S. Zhao and **S. Sahebi**, “Graph-enhanced multi-activity knowledge tracing,” in Joint European Conference on Machine Learning and Knowledge Discovery in Databases. Springer, 2023, pp. 529–546. [paper](https://par.nsf.gov/servlets/purl/10434441) [code](https://github.com/persai-lab/2023-ECML-PKDD-GMKT) [slides](../slides/2023-ECML-PKDD-GMKT.pdf) 
 
-S. Zhao, C. Wang, and S. Sahebi, "Modeling Knowledge Acquisition from Multiple LearningResource Types", 13th International Conference on Educational Data Mining (EDM), 2020. <a href="https://educationaldatamining.org/files/conferences/EDM2020/papers/paper_142.pdf">[paper]</a> <a href="https://github.com/persai-lab/EDM2020-MVKM-Multiview-Tensor">[code]</a> <a href="https://github.com/persai-lab/persai-lab.github.io/blob/master/slides/2020_EDM_Modeling_Knowledge_Acquisition_from_Multiple%20_LearningResource_Types.pdf">[slides]</a> <a href ="https://www.youtube.com/watch?v=2p3QRavSINE&list=PLzBEJxyd0uuNlSGX4fX9Ijmd5dZo6mrqe">[video]</a> 
+- S. Zhao, **S. Sahebi**, and R. Feyzi-Behnagh, “Curb your procrastination: A study of academic procrastination behaviors,” in The 31st Conference on User Modeling, Adaptation and Personalization (UMAP), 2023. [paper](https://dl.acm.org/doi/pdf/10.1145/3565472.3592953?casa_token=tGmyJi_cY4YAAAAA:v7xBpRuc7IavIEce8dD43_iDh9lOItj4EDWdvqokuyWp1v7MNztFFwdTVMotSQdYu1IksXUSB-uK) [code](https://github.com/persai-lab/2023-UMAP-CurbYourProcrastination-SurveyAnalysis) [slides](../slides/2023-UMAP-Procrastination.pdf)
 
-M. Yao, S. Sahebi, and R. Feyzi Behnagh "Analyzing Student Procrastination in MOOCs: A Multivariate Hawkes Approach", 13th International Conference on Educational Data Mining (EDM), 2020. <a href = "https://educationaldatamining.org/files/conferences/EDM2020/papers/paper_165.pdf">[paper]<a href = "https://github.com/persai-lab/EDM2020-EdHawkes">[code]</a> <a href = "https://youtu.be/uVrYz3UkmyI">[video]</a>    
+- S. Zhao, C. Wang, and **S. Sahebi**, “Transition-aware multi-activity knowledge tracing,” in The 2022 IEEE International Conference on Big Data, 2022. [paper](https://arxiv.org/abs/2301.12916) [code](https://github.com/persai-lab/BigData2022-TAMKOT) [slides](../slides/2022-BigData-TAMKOT.pdf) [video](https://www.youtube.com/watch?v=hjvEsL7T3Yw)
+
+- C. Wang, **S. Sahebi**, and P. Brusilovsky "Proximity-based educational recommendations: A multi-objective framework", The 2nd Workshop on Multi-Objective Recommender Systems (MORS’22), 2022. [paper](https://ceur-ws.org/Vol-3268/paper4.pdf) 
+
+- M. Yao, S. Zhao, **S. Sahebi**, and R. Feyzi Behnagh "Stimuli-Sensitive Hawkes Processes for Personalized Student Procrastination Modeling", The Thirtieth Web Conference (The Web-21), 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3442381.3450104) [code](https://github.com/persai-lab/WWW2021-SSHP) [slides](../slides/2021-WWW-StimuliHawkes.pdf) [video](https://www.youtube.com/watch?v=g_dQbC5uiMc)
+
+- C. Wang, **S. Sahebi**, S. Zhao, P. Brusilovsky, and L. Moraes "Knowledge tracing for complex problem solving: Granular rank-based tensor factorization", The 29th Conference on User Modeling, Adaptation and Personalization (UMAP-21), 2021. 
+[paper](https://par.nsf.gov/biblio/10296472) [code](https://github.com/persai-lab/UMAP2021-GRATE)
+	
+- M. Yao, S. Zhao, **S. Sahebi**, and R. Feyzi Behnagh "Relaxed clustered hawkes process for procrastination modeling in moocs", Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021. [paper](https://par.nsf.gov/servlets/purl/10334657) [code](https://github.com/persai-lab/AAAI2020-RCHawkes-Gamma) [slides](../slides/2021-AAAI-RelaxedClusteredHawkes.pdf)
+                                                    
+- C. Wang, S. Zhao, and **S. Sahebi** "Learning from non-assessed resources: Deep multi-type knowledge tracing",    The 14th International Conference on Educational Data Mining (EDM-21), 2021. [paper](https://files.eric.ed.gov/fulltext/ED615584.pdf) [code](https://github.com/persai-lab/EDM2021-DMKT)
+																								
+- M. Yao, **S. Sahebi**, R. Feyzi Behnagh, S. Bursali, and S. Zhao "Temporal processes associating with procrastination dynamics",     The 22nd International Conference on Artificial Intelligence in Education (AIED-21), 2021. [paper](https://par.nsf.gov/servlets/purl/10334657) 
+
+- C. Wang, **S. Sahebi**, and H. Torkamaan "STRETCH: Stress and Behavior Modeling with Tensor Decomposition of Heterogeneous Data", The 2021 IEEE/WIC/ACM International Joint Conference On Web Intelligence And Intelligent Agent Technology (WI-IAT), 2021. [paper](https://par.nsf.gov/servlets/purl/10342003) [code](https://github.com/persai-lab/WIIAT2021-STRETCH)
+																								
+- C. Wang, **S. Sahebi**, and P. Brusilovsky "MOCHI: an Offline Evaluation Framework for Educational Recommendations", The Workshop on Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES'21), 2021. [paper](https://par.nsf.gov/servlets/purl/10342004) [code](https://github.com/persai-lab/MOCHI)
+		
+- T.N. Doan, and **S. Sahebi**, "Transcrosscf:  Transition-based cross-domain collaborative filtering", 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020 [paper](https://par.nsf.gov/servlets/purl/10296473) [code](https://github.com/ssahebi/TransCrossCF)
+													
+- M. Mirzaei, **S. Sahebi**, and P. Brusilovsky, "SB-DNMF: A structure based discriminative non-negativematrix factorization model for detecting inefficient learning behaviors",     The 2020 IEEE/WIC/ACMInternational Joint Conference On Web Intelligence And Intelligent Agent Technology. WI-IAT, 2020. [paper](https://par.nsf.gov/servlets/purl/10296475) [code](https://github.com/ssahebi/DiscriminativeNMF) [video](https://www.youtube.com/watch?v=2874UF4tMNo&t=495s&ab_channel=MehrdadMirzaei)
+
+- S. Zhao, C. Wang, and **S. Sahebi**,  "Modeling Knowledge Acquisition from Multiple Learning Resource Types",     13th International Conference on Educational Data Mining (EDM), 2020. [paper](https://educationaldatamining.org/files/conferences/EDM2020/papers/paper_142.pdf) [code](https://github.com/sz612866/MVKM-Multiview-Tensor) [video](https://www.youtube.com/watch?v=2p3QRavSINE&list=PLzBEJxyd0uuNlSGX4fX9Ijmd5dZo6mrqe&index=1)
+
+- M. Yao, **S. Sahebi**, and R. Feyzi Behnagh "Analyzing Student Procrastination in MOOCs: A Multivariate Hawkes Approach",     13th International Conference on Educational Data Mining (EDM), 2020. [paper](https://educationaldatamining.org/files/conferences/EDM2020/papers/paper_165.pdf) [code](https://github.com/ssahebi/EDM2020-Hawkes) [video](https://www.youtube.com/watch?v=uVrYz3UkmyI&list=PLzBEJxyd0uuN-4bQdUNfgJWf3BDZ1rumU&index=2)   
 
 M. Mirzaei, S. Sahebi, , and P. Brusilovsky, "Detecting Trait versus Performance Student Behavioral Pattern Using Discriminative Non-Negative Matrix Factorization", The Thirty-Third International FLAIRS Conference, 2020. 
 
